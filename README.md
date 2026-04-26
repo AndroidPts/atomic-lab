@@ -4,20 +4,13 @@
 
 <img width="604" height="204" alt="image" src="https://github.com/user-attachments/assets/96d84819-fefa-4ec7-aaaf-fbdb11430e9a" />
 
+## 2. Срабатывание pre-commit хука
 
-## 2. Восстановление окружения («чистый старт») и успешный запуск тестов
+<img width="1257" height="782" alt="image" src="https://github.com/user-attachments/assets/577b2dea-8c52-4bf4-9cdf-a9d71192ca11" />
+<img width="1258" height="912" alt="image" src="https://github.com/user-attachments/assets/bdb94618-8d79-4dc2-ad63-9e33a505b1ef" />
 
-*Скриншот терминала, показывающий:*
-- удаление папки venv
-- создание нового окружения
-- установку из lock-файла
-- успешный запуск тестов через pytest
 
-## 3. Срабатывание pre-commit хука
-
-*Скриншот блокировки коммита из-за нарушения стиля (например, flake8 или black).*
-
-## 4. Ответы на контрольные вопросы
+## 3. Ответы на контрольные вопросы
 
 **1. Как использование git add -p помогает при отладке через git bisect?**
 
