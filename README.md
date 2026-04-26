@@ -7,7 +7,7 @@
 ## 2. Срабатывание pre-commit хука
 
 <img width="1257" height="782" alt="image" src="https://github.com/user-attachments/assets/577b2dea-8c52-4bf4-9cdf-a9d71192ca11" />
-
+--------------------------------------------------------------------------------------------------------------------------------------
 <img width="1258" height="912" alt="image" src="https://github.com/user-attachments/assets/bdb94618-8d79-4dc2-ad63-9e33a505b1ef" />
 
 
